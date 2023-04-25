@@ -1,8 +1,10 @@
 
 @font-face {
     font-family: play;
-    src: url(./PlayfairDisplay-Regular.9647c7fa.woff2);
-}*{
+    src: url(./PlayfairDisplay-Bold.woff2);
+}
+
+*{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
